@@ -1,0 +1,6 @@
+This code is the same from the Mercury repository.
+This repo allows for easy install with VimPlug.
+
+# Mercury Syntax Highlighting Under Vim 6.0+
+
+Please consult doc/mercury.txt for installation and configuration information.
